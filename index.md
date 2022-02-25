@@ -1,37 +1,24 @@
-# Select your like
+## Data Explore in VR
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LUCKYLI1997/interactvr.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-### this is a test for this page
-How are you doing man!
+### Find your data easily
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find the data you want easily from dataset with huge amount of data.
 
-### Markdown
+### Select the examples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can choose the data examples provided by our system to illustrate your interest.
 
-```markdown
-Syntax highlighted code block
+### Enjoy exploration with VR environment
 
-# Header 1
-## Header 2
-### Header 3
+Our system provides you with an immersive explore experience in a Sci fi game scenes, based on VR device.
 
-- Bulleted
-- List
+### The system is under developing
 
-1. Numbered
-2. List
+We are developing the system, which will be released soon.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
@@ -40,3 +27,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+[editor on GitHub](https://github.com/LUCKYLI1997/interactvr.github.io/edit/gh-pages/index.md)
